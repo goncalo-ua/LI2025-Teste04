@@ -1,0 +1,28 @@
+body {
+    background-color: #d6d6d6;
+}
+
+.window-card {
+    margin-top: 40px;
+}
+
+.window-header {
+    height: 26px;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #e0e0e0;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    padding: 5px 10px;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.dot-red { background-color: #ff5f57; }
+.dot-yellow { background-color: #febc2e; }
+.dot-green { background-color: #28c840; }
